@@ -1,0 +1,9 @@
+References
+- http://www.awri.com.au/wp-content/uploads//TN14.pdf
+- M. A. Amerine and M. A. Joslyn, "Table wines. The technology of their production", 2nd Ed. University of California Press, 1970 ISBN: 0-520-01657-2
+- https://winobrothers.com/2011/10/11/sulfur-dioxide-so2-in-wine/
+- http://winefolly.com/tutorial/the-lightest-to-the-strongest-wine/
+- https://trinkerrstuff.wordpress.com/2012/09/01/add-text-annotations-to-ggplot2-faceted-plot/
+- http://www.aromadictionary.com/articles/sulfurdioxide_article.html
+- https://www.r-bloggers.com
+- http://stackoverflow.com
