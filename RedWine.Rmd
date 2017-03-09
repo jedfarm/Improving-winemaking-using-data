@@ -753,19 +753,23 @@ According to this graph high quality is associated with high concentration of al
 p1 <- ggplot( wine_red, aes(x = quality, y = citric.acid, fill=quality.level)) + 
   geom_boxplot() +
   theme_bw() +
-  labs(y = "citric acid (g/L)")
+  labs(y = "citric acid (g/L)") +
+  ggtitle("Box plot of citric acid vs quality")
 p2 <- ggplot( wine_red, aes(x = quality, y = volatile.acidity, fill=quality.level)) +
   geom_boxplot() +
   theme_bw() +
-  labs(y = "volatile acidity (g/L)")
+  labs(y = "volatile acidity (g/L)")+
+  ggtitle("Box plot of volatile acidity vs quality")
 p3 <- ggplot( wine_red, aes(x = quality, y = sulphates, fill=quality.level)) + 
   geom_boxplot() +
   theme_bw() +
-  labs(y = "sulphates (g/L)")
+  labs(y = "sulphates (g/L)") +
+  ggtitle("Box plot of sulphates vs quality")
 p4 <- ggplot( wine_red, aes(x = quality, y = density, fill=quality.level)) + 
   geom_boxplot() +
   theme_bw() +
-  labs(y = "density (g/cm3)")
+  labs(y = "density (g/cm3)") +
+  ggtitle("Box plot of density vs quality")
 grid.arrange(p1, p2, p3, p4, ncol=2)
 ```
 
