@@ -7,3 +7,7 @@ References
 - http://www.aromadictionary.com/articles/sulfurdioxide_article.html
 - https://www.r-bloggers.com
 - http://stackoverflow.com
+- https://briatte.github.io/ggcorr/#controlling-the-coefficient-labels
+- http://www.awri.com.au/industry_support/winemaking_resources/fining-stabilities/microbiological/avoidance/sulfur_dioxide/
+- http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-20612015000100095
+- http://www.academia.edu/21787642/WINE_TASTING_AND_CRITIQUE_BIAS_ERRORS_MISCONCEPTIONS_AND_THEIR_INFLUENCE_ON_THE_MARKET
